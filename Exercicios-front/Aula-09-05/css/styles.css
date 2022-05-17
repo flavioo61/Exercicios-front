@@ -1,0 +1,32 @@
+*{
+    color: red;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+h1 {
+  color: fuchsia;
+  background-color: grey;
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+h2 {
+  color: #f1f1f1;
+  font-size: 30px;
+}
+h3 {
+  background-color: grey;
+  color: yellow;
+}
+
+.subtitle {
+  color: blueviolet;
+  font-family: "Cambria";
+}
+
+#Bolo {
+  background-color: aqua;
+}
