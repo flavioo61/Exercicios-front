@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+body{
+   
+    background-color: #131313;
+    
+   }
+h1{
+    color: white;
+    font-family: 'roboto', sans-serif;
+}
+
+
+h2{
+    color: steelblue;
+    font-family: 'roboto', sans-serif;
+}
+
+p{
+    color: #bdbdbd;
+    font-family: 'roboto', sans-serif;
+
+}
+
+.media-picture {
+    height: 400px;
+    background-image: url(/img/breaking.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.review-score{
+    color: white;
+    background-color: #e6bd09;
+    padding: 12px;
+}
+
+a{
+    color: yellow;
+    display: block;
+
+}
